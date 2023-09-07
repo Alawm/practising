@@ -4,7 +4,7 @@ iam learning git push
 i am an univsersity applicant
  feature1
 who am i?
-6 march is my birthday.
+i have born in 2003
 i have complete my ssc.
  main
 i have complete my HSC.
